@@ -1,0 +1,3 @@
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Debug\Client.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\kursovaya\Debug\Client.exe
+C:\Users\89154\OneDrive\Рабочий стол\kursovaya\kursovaya\Debug\Client.exe

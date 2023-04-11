@@ -1,0 +1,12 @@
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\process2.exe.config
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\process2.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\process2.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.csproj.AssemblyReference.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.csproj.SuggestedBindingRedirects.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.csproj.CoreCompileInputs.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\lab3 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\lab3 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\bin\Debug\lab3 cs.exe.config
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\process2\obj\Debug\process2.csproj.CopyComplete

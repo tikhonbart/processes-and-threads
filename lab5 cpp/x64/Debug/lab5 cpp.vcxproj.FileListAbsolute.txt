@@ -1,0 +1,5 @@
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab5 cpp\x64\Debug\lab5 cpp.vcxproj.AssemblyReference.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab5 cpp\x64\Debug\lab5 cpp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab5 cpp\x64\Debug\lab5cpp.MyForm.resources
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab5 cpp\x64\Debug\lab5 cpp.vcxproj.GenerateResource.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab5 cpp\x64\Debug\lab5 cpp.exe

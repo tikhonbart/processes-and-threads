@@ -1,0 +1,15 @@
+﻿  Server1.cpp
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\Server1\Server1.cpp(53,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_accept в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_bind в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_listen в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recv в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_send в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_shutdown в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_getaddrinfo в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+Server1.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_freeaddrinfo в функции "int __cdecl ser1Connect(void)" (?ser1Connect@@YAHXZ).
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\Server1\x64\Debug\Server1.exe : fatal error LNK1120: неразрешенных внешних элементов: 12

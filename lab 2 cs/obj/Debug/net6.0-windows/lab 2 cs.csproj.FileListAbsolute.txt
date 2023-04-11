@@ -1,0 +1,17 @@
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\bin\Debug\net6.0-windows\lab 2 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\bin\Debug\net6.0-windows\lab 2 cs.deps.json
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\bin\Debug\net6.0-windows\lab 2 cs.runtimeconfig.json
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\bin\Debug\net6.0-windows\lab 2 cs.dll
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\bin\Debug\net6.0-windows\lab 2 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.csproj.AssemblyReference.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab_2_cs.Form1.resources
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.csproj.GenerateResource.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.AssemblyInfoInputs.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.AssemblyInfo.cs
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.csproj.CoreCompileInputs.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.dll
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\refint\lab 2 cs.dll
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\lab 2 cs.genruntimeconfig.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab 2 cs\obj\Debug\net6.0-windows\ref\lab 2 cs.dll

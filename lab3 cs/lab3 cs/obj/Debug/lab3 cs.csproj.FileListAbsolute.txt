@@ -1,0 +1,24 @@
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\bin\Debug\lab3 cs.exe.config
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\bin\Debug\lab3 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\bin\Debug\lab3 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\obj\Debug\lab3 cs.csproj.AssemblyReference.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\obj\Debug\lab3 cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\obj\Debug\lab3 cs.csproj.CoreCompileInputs.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\obj\Debug\lab3 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\obj\Debug\lab3 cs.pdb
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\bin\Debug\lab3 cs.exe.config
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\bin\Debug\lab3 cs.exe
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\bin\Debug\lab3 cs.pdb
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.AssemblyReference.cache
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.CoreCompileInputs.cache
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\obj\Debug\lab3 cs.exe
+C:\Users\pomidor\Desktop\уник\ос\lab3 cs\lab3 cs\obj\Debug\lab3 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.AssemblyReference.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\obj\Debug\lab3 cs.csproj.CoreCompileInputs.cache
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\obj\Debug\lab3 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\obj\Debug\lab3 cs.pdb
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\bin\Debug\lab3 cs.exe.config
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\bin\Debug\lab3 cs.exe
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\lab3 cs\lab3 cs\lab3 cs\bin\Debug\lab3 cs.pdb

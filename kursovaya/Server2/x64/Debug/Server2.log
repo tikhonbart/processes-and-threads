@@ -1,0 +1,22 @@
+﻿  Server2.cpp
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Server2\Server2.cpp(75,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Server2\Server2.cpp(130,35): warning C4244: инициализация: преобразование "DWORDLONG" в "int", возможна потеря данных
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Server2\Server2.cpp(141,57): warning C4244: аргумент: преобразование "DWORDLONG" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Server2\Server2.cpp(143,35): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::string"
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_accept в функции "public: int __cdecl Server::ListenAndSendTask(void)" (?ListenAndSendTask@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_bind в функции "public: int __cdecl Server::ser1Connect(void)" (?ser1Connect@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции "public: int __cdecl Server::CloseSocket(void)" (?CloseSocket@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_listen в функции "public: int __cdecl Server::ListenAndSendTask(void)" (?ListenAndSendTask@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recv в функции "public: int __cdecl Server::ListenAndSendTask(void)" (?ListenAndSendTask@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_send в функции "public: int __cdecl Server::ListenAndSendTask(void)" (?ListenAndSendTask@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_shutdown в функции "public: int __cdecl Server::CloseSocket(void)" (?CloseSocket@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции "public: int __cdecl Server::ser1Connect(void)" (?ser1Connect@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции "public: int __cdecl Server::ser1Connect(void)" (?ser1Connect@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции "public: int __cdecl Server::CloseSocket(void)" (?CloseSocket@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_getaddrinfo в функции "public: int __cdecl Server::ser1Connect(void)" (?ser1Connect@Server@@QEAAHXZ).
+Server2.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_freeaddrinfo в функции "public: int __cdecl Server::CloseSocket(void)" (?CloseSocket@Server@@QEAAHXZ).
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\Server2\x64\Debug\Server2.exe : fatal error LNK1120: неразрешенных внешних элементов: 12

@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Client.vcxproj, Server.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  kursovaya.cpp
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\kursovaya.cpp(52,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_closesocket в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_connect в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_recv в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_send в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_shutdown в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_socket в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSAStartup в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_WSACleanup в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_getaddrinfo в функции main.
+kursovaya.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_freeaddrinfo в функции main.
+C:\Users\89154\OneDrive\Рабочий стол\проекты\третий курс\операционные системы\kursovaya\x64\Debug\kursovaya.exe : fatal error LNK1120: неразрешенных внешних элементов: 10
